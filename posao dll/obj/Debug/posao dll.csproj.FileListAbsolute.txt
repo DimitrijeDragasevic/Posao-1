@@ -1,0 +1,12 @@
+c:\users\dimitrije\documents\visual studio 2015\Projects\posao dll\posao dll\bin\Debug\posao dll.exe.config
+c:\users\dimitrije\documents\visual studio 2015\Projects\posao dll\posao dll\bin\Debug\posao dll.exe
+c:\users\dimitrije\documents\visual studio 2015\Projects\posao dll\posao dll\bin\Debug\posao dll.pdb
+c:\users\dimitrije\documents\visual studio 2015\Projects\posao dll\posao dll\obj\Debug\posao dll.csprojResolveAssemblyReference.cache
+c:\users\dimitrije\documents\visual studio 2015\Projects\posao dll\posao dll\obj\Debug\posao dll.exe
+c:\users\dimitrije\documents\visual studio 2015\Projects\posao dll\posao dll\obj\Debug\posao dll.pdb
+C:\Users\Ana\Desktop\Posao Dimitrije\posao-master\posao dll\bin\Debug\posao dll.exe.config
+C:\Users\Ana\Desktop\Posao Dimitrije\posao-master\posao dll\obj\Debug\posao dll.exe
+C:\Users\Ana\Desktop\Posao Dimitrije\posao-master\posao dll\obj\Debug\posao dll.pdb
+C:\Users\Ana\Desktop\Posao Dimitrije\posao-master\posao dll\bin\Debug\posao dll.exe
+C:\Users\Ana\Desktop\Posao Dimitrije\posao-master\posao dll\bin\Debug\posao dll.pdb
+C:\Users\Ana\Desktop\Posao Dimitrije\posao-master\posao dll\obj\Debug\posao dll.csprojResolveAssemblyReference.cache

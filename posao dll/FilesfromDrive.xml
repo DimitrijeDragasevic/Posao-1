@@ -1,0 +1,12 @@
+<node type="document" action="create" Folder="Folder">
+  <node type="document" action="create">
+    <title language="en_US">neki document</title>
+    <location>Dimitrije: posao dll</location>
+    <file>D:\neki folder test programiranje\opet neki subfolder\neki document.txt</file>
+  </node>
+  <location>Dimitrije: posao dll</location>
+  <Folder>D:\neki folder test programiranje\opet neki subfolder</Folder>
+</node><node type="document" action="create" Folder="Folder">
+  <location>Dimitrije: posao dll</location>
+  <Folder>D:\neki folder test programiranje</Folder>
+</node>
